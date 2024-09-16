@@ -85,9 +85,9 @@
     background-color: white;
 }
 
-.navlink {
-    /* border: 2px solid green; */
-}
+/* .navlink {
+    border: 2px solid green;
+} */
 
 .navlink ul {
     display: flex;
