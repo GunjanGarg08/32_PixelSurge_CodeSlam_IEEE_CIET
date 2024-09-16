@@ -119,3 +119,42 @@
     border: 3px solid #2ecc71;
     border-radius: 50px;
 }
+
+.footer {
+    border: 2px solid black;
+    height: 300px;
+    width: 100%;
+    background-color: #2c3e50;
+}
+
+.foot1 {
+    border: 2px solid blue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.about {
+    border: 2px solid green;
+    height: 300px;
+    width: 33%;
+}
+
+.blog {
+    border: 2px solid green;
+    height: 300px;
+    width: 33%;
+}
+
+.blog-box {
+    display: flex;
+}
+
+.div1 {
+    display: flex;
+}
+
+.tweet {
+    border: 2px solid green;
+    height: 300px;
+    width: 33%;
+}
